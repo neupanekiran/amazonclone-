@@ -44,11 +44,11 @@ Example of a hover animation on product cards:
 php
 Copy code
 amazon-clone/
-│
-├── index.html          # Main HTML file
-├── style.css           # Main CSS file
-├── images/             # Folder for all images
-└── README.md           # Project documentation
+- │
+- ├── index.html          # Main HTML file
+- ├── style.css           # Main CSS file
+- ├── images/             # Folder for all images
+- └── README.md           # Project documentation
 
 
 
@@ -56,13 +56,13 @@ amazon-clone/
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/neupanekiran/amazonclone.git
 Open index.html in your browser to view the project.
-Future Improvements
-Add JavaScript functionality: Incorporate features like a working search bar, cart system, and user login using JavaScript or backend technologies.
-Enhance Animations: Use more complex animations, such as product sliders or image carousels.
-Responsive Enhancements: Further fine-tune the responsive design for better performance on tablet and mobile devices.
-Contributors
+# Future Improvements
+- Add JavaScript functionality: Incorporate features like a working search bar, cart system, and user login using JavaScript or backend technologies.
+- Enhance Animations: Use more complex animations, such as product sliders or image carousels.
+- Responsive Enhancements: Further fine-tune the responsive design for better performance on tablet and mobile devices.
+# Contributors
 Your Name @neupanekiran
 css
 
