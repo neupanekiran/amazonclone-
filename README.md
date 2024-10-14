@@ -40,7 +40,7 @@ Example of a hover animation on product cards:
 }
 ```
 
-Folder Structure
+# Folder Structure
 php
 Copy code
 amazon-clone/
@@ -49,7 +49,10 @@ amazon-clone/
 ├── style.css           # Main CSS file
 ├── images/             # Folder for all images
 └── README.md           # Project documentation
-How to Run
+
+
+
+# How to Run
 Clone the repository:
 bash
 Copy code
