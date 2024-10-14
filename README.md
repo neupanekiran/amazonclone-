@@ -38,4 +38,35 @@ Example of a hover animation on product cards:
   transform: scale(1.05);
   transition: transform 0.3s ease;
 }
+```
+
+Folder Structure
+php
+Copy code
+amazon-clone/
+│
+├── index.html          # Main HTML file
+├── style.css           # Main CSS file
+├── images/             # Folder for all images
+└── README.md           # Project documentation
+How to Run
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/amazon-clone.git
+Open index.html in your browser to view the project.
+Future Improvements
+Add JavaScript functionality: Incorporate features like a working search bar, cart system, and user login using JavaScript or backend technologies.
+Enhance Animations: Use more complex animations, such as product sliders or image carousels.
+Responsive Enhancements: Further fine-tune the responsive design for better performance on tablet and mobile devices.
+Contributors
+Your Name @neupanekiran
+css
+
+
+
+
+
+
+
 
